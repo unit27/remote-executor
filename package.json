@@ -9,7 +9,7 @@
 
     "repository": {
         "type"  : "git",
-        "url"   : "git://github.com/unit27/remote.git"
+        "url"   : "git://github.com/unit27/remote-executor.git"
     },
 
     "dependencies": {
