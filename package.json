@@ -1,20 +1,20 @@
 {
-    "author"        : "Przemysław Ankowski <przemyslaw.ankowski@gmail.com>",
-    "license"       : "UNIT27-license",
+    "author": "Przemysław Ankowski <przemyslaw.ankowski@gmail.com>",
+    "license": "UNIT27-license",
 
-    "name"          : "remote-executor",
-    "version"       : "1.0.0",
-    "description"   : "Remote executor (execute remote command via GET/POST method)",
-    "main"          : "index.js",
+    "name": "remote-executor",
+    "version": "1.0.2",
+    "description": "Remote executor (execute remote command via GET/POST method)",
+    "main": "index.js",
 
     "repository": {
-        "type"  : "git",
-        "url"   : "git://github.com/unit27/remote-executor.git"
+        "type": "git",
+        "url": "git://github.com/unit27/remote-executor.git"
     },
 
     "dependencies": {
-        "sync-request"      : "*",
-        "recursive-merge"   : "*"
+        "sync-request": "^6.1.0",
+        "recursive-merge": "^1.2.1"
     },
 
     "scripts": {
