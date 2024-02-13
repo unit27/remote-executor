@@ -3,7 +3,7 @@
     "license": "UNIT27-license",
 
     "name": "remote-executor",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Remote executor (execute remote command via GET/POST method)",
     "main": "index.js",
 
