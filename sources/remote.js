@@ -56,7 +56,7 @@ var Remote = function() {
                 URL = require("url").parse(url);
 
                 // Try to import http nodejs module
-                http = require("http");
+                http = require("https");
 
                 // Try to import querystring nodejs module
                 querystring = require("querystring");
